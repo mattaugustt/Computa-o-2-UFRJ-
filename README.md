@@ -20,5 +20,5 @@ Repositório com listas de exercícios e trabalhos feitos por mim para a discipl
 *Lista 7* - Numpy.<br>
 *Lista 8* - Matplotlib.<br>
 *Lista 9* - Scipy.<br> 
-*Lista 10.1* - Tkinter (falta) <br>
+*Lista 10.1* - Tkinter **(falta)** <br>
 *Lista 10.2* - Pandas.
